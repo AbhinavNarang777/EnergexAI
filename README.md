@@ -38,7 +38,7 @@ Replace this with the original API Key.
 
 ### Step 4: Run the FastAPI Server
 Run the FastAPI server using the following command:
-bash
+```bash
 uvicorn main:app --host 0.0.0.0 --port 8000
 
 This will start the FastAPI server on http://localhost:8000.
