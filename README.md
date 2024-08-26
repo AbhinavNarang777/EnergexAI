@@ -9,7 +9,7 @@ To get started with EnergexAI, follow these steps:
 
 Clone the EnergexAI repository from GitHub using the following command:
 bash
-git clone https://github.com/your-username/EnergexAI.git
+git clone https://github.com/AbhinavNarang777/EnergexAI.git
 
 ### Step 2: Navigate to the project directory and initialize the project using the following commands:
 
